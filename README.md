@@ -11,3 +11,10 @@ Common package containing all required ROS2 packages to run a single agent at th
    | px4_telemetry | Handles telemetry data and frame transformations from ENU to Autonomy Park. |
    | px4_teleop | Teleoperation node. |
    | swarm_interfaces | Library with msgs + srvs used for experiments. |
+
+## Note on Submodules
+
+Submodules will be empty after cloning repo, to update them run:
+```bash
+git submodule update --init --recursive
+```
