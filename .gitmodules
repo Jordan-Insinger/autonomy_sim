@@ -10,3 +10,6 @@
 [submodule "px4_teleop"]
 	path = px4_teleop
 	url = git@github.com:UFL-Autonomy-Park/px4_teleop.git
+[submodule "minimal_startup_air"]
+	path = minimal_startup_air
+	url = git@github.com:UFL-Autonomy-Park/minimal_startup_air.git
