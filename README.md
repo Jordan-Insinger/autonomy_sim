@@ -12,3 +12,10 @@ Common package containing all required ROS2 packages to run *multiple agents* at
    | px4_teleop | Teleoperation node. |
    | fleet_manager | Manages agents on network, oversees experiments. |
    | swarm_interfaces | Library with msgs + srvs used for experiments. |
+
+## Note on Submodules
+
+Submodules will be empty after cloning repo, to update them run:
+```bash
+git submodule update --init --recursive
+```
