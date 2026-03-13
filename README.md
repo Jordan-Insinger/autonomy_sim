@@ -5,6 +5,9 @@
 
 Common package containing all required ROS2 packages to run a single agent at the autonomy park.
 
+<img alt="Awesome GitHub Profile Readme" src="docs/trajectory_tracking.gif"> </img>
+
+
 ## Packages
 
 | Name | Description |
